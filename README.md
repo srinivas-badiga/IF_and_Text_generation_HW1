@@ -17,7 +17,7 @@ Game blue print:
 * 8 Items(emergency oxygen tank, base station key, M416 gun, AKM gun, M-40 gun, torch light, martian artifact, vault passcode)
 * Characters(player, alien)
 * Actions( take items, go directions, use items)
-* Blocks to enter base station without key. Blocks taking base station key in equipment storage without torchlight as it is dark. Blocks entering martian vault without passcode.
+* Puzzles( 1. Blocks to enter base station without key. 2. Blocks taking base station key in equipment storage without torchlight as it is dark. 3. Blocks entering martian vault without passcode.)
 
 
 Reason for choosing this game topic.
