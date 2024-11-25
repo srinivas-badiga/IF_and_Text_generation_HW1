@@ -1,4 +1,4 @@
-# IF_and_Text_generation_HW1
+# IF_and_TG_Action_Castle_Game
 
 Mission Mars!!
 
